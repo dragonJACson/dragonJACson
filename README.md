@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on graduation project
-- 🌱 I’m currently learning Rust, C++...
+- 🔭 I’m currently working at a tech company
+- 🌱 I’m currently learning Rust, C++, C, DPDK, RDMA...
 - 📫 How to reach me: ```lukedyue at gmail dot com```
 - ⚡ Another blog: https://write.as/lukedyue
 - 📜 Poems and thoughts: https://readonly.link/books/https://raw.githubusercontent.com/LukeInShell/PoemsAndWorld/main/book.json
